@@ -24,7 +24,7 @@ import {
     const accountAddress =
       "0x01298DEF6c1fDBbFD7A1A7883495992D56dc0928B013f94EFE4caC65EB9F41b9";
     const privateKey =
-      "0x06d1c6c3a822c5b23a42dfadbd105cd4ab827d6266ecb86dbe2b9564da50ad22";
+      "0x01298DEF6c1fDBbFD7A1A7883495992D56dc0928B013f94EFE4caC65EB9";
   
     const account0 = new Account(provider, accountAddress, privateKey);
     console.log("existing_ACCOUNT_ADDRESS=", accountAddress);
